@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  CombineTutorial
+//  MobileWallet
 //
-//  Created by Vladislav on 8.11.21.
+//  Created by Dominika Poleshyck on 17.12.21.
 //
 
 import UIKit

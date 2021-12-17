@@ -13,6 +13,8 @@
 		867F5A72273983F2006A0359 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 867F5A70273983F2006A0359 /* Main.storyboard */; };
 		867F5A74273983F3006A0359 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 867F5A73273983F3006A0359 /* Assets.xcassets */; };
 		867F5A77273983F3006A0359 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 867F5A75273983F3006A0359 /* LaunchScreen.storyboard */; };
+		867F5A8227398432006A0359 /* MainPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867F5A7F27398432006A0359 /* MainPresenter.swift */; };
+		867F5A8327398432006A0359 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867F5A8027398432006A0359 /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		867F5A73273983F3006A0359 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		867F5A76273983F3006A0359 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		867F5A78273983F3006A0359 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		867F5A7F27398432006A0359 /* MainPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPresenter.swift; sourceTree = "<group>"; };
+		867F5A8027398432006A0359 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				867F5A6A273983F2006A0359 /* AppDelegate.swift */,
 				867F5A6C273983F2006A0359 /* SceneDelegate.swift */,
 				867F5A6E273983F2006A0359 /* ViewController.swift */,
+				867F5A7F27398432006A0359 /* MainPresenter.swift */,
+				867F5A8027398432006A0359 /* MainViewController.swift */,
 				867F5A70273983F2006A0359 /* Main.storyboard */,
 				867F5A73273983F3006A0359 /* Assets.xcassets */,
 				867F5A75273983F3006A0359 /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				867F5A6F273983F2006A0359 /* ViewController.swift in Sources */,
 				867F5A6B273983F2006A0359 /* AppDelegate.swift in Sources */,
 				867F5A6D273983F2006A0359 /* SceneDelegate.swift in Sources */,
+				867F5A8227398432006A0359 /* MainPresenter.swift in Sources */,
+				867F5A8327398432006A0359 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
